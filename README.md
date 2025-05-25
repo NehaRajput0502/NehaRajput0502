@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/26xBukhJ0i8KXADYc/giphy.gif" width="250px" alt="Hi" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Neha Rajput</h1>
+<h1 align="center">Hi 👋, I'm 𝐍𝐞𝐡𝐚 𝐑𝐚𝐣𝐩𝐮𝐭</h1>
 <h3 align="center">💻 Software Developer | 🎬 Video Editor | 🎓 MCA Student</h3>
 
 <p align="center">

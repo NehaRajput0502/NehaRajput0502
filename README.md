@@ -20,6 +20,7 @@
 - Passionate about building web applications and creating amazing video content.  
 - Currently pursuing MCA and honing full-stack development skills.  
 - Always eager to learn and collaborate on innovative projects.
+- Consistently contributing to open-source projects on GitHub. 
 
 ---
 

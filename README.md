@@ -24,7 +24,7 @@
 
 ### 🚀 My Projects
 
-- 🌐 **Online Quiz System** — Full-stack with Java, Spring Boot, MySQL  
+- 🌐 **Online Quiz System** — Full-stack with HTML,CSS,JavaScript and JSON 
 - 💼 **User Management Module** — Built with Elixir & Phoenix for a SaaS platform  
 - 🎨 **React Portfolio Website** — Responsive, animated, and dark/light mode  
 - 📹 **Instagram Content** — Motivational reels & video edits   🌟 **[@start_explore_img](https://www.instagram.com/start_explore_img/)**

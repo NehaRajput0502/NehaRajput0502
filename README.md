@@ -69,7 +69,7 @@
 
 - 📧 Email: **neharajput0502@gmail.com**  
 - 🐦 Twitter: [@neharajput0502](https://x.com/neharajput0502)
-- 📸 Instagram: [@neha_rajput0502](https://www.instagram.com/coditbyneha/)  
+- 📸 Instagram: [@coditbyneha](https://www.instagram.com/coditbyneha/)  
 - 📸 Instagram: [@neha_rajput0502](https://www.instagram.com/neha_rajput0502/)  
 - 💼 LinkedIn: [@NehaRajput0502](https://www.linkedin.com/in/neha-rajput-0502neha/)
 

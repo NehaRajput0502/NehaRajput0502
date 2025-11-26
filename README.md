@@ -78,11 +78,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Neha's GitHub stats](https://github-readme-stats.vercel.app/api?username=NehaRajput0502&show_icons=true&theme=radical)
-
----
 
 ### ✨ Fun Fact
 

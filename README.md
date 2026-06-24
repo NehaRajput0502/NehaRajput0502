@@ -15,11 +15,13 @@
 
 ### 👩‍💻 About Me ![Profile Views](https://komarev.com/ghpvc/?username=NehaRajput0502&style=flat-square&color=blue)
 
-- 🎓 MCA student with a passion for full-stack development and creative content.
-- 💡 Curious explorer of new tech trends, tools, and frameworks.
+- 🎨 Currently working as a UI/UX Developer, creating clean, user-friendly, and visually appealing designs.
+- 💻 Also involved in coding, building responsive interfaces, and improving frontend skills.
+- 🚀 Gaining hands-on experience in deploying projects and working on real-world applications.
 - 💼 Consistently contributing to open-source projects on GitHub. 
 - 💬 Loves working on real-world projects and collaborating in team environments.
-- 🌍 Open-source enthusiast & always eager to share knowledge and learn more.
+- 💡 Curious explorer of new design trends, tools, technologies, and frameworks.
+- 🌍 Always eager to learn, share knowledge, and grow as a creative tech professional.
 
 ---
 

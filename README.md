@@ -28,7 +28,8 @@
 - 🌐 **Online Quiz System** — Full-stack quiz app using HTML, CSS, JavaScript, and JSON  
 - 💼 **Jewellery Website** — A dynamic e-commerce platform for browsing and purchasing categorized jewellery (Gold, Silver, Diamond) online with features like user registration, cart management, and PDF invoice generation using HTML, CSS, JavaScript, PHP, and MySQL. 
 - 🎨 **React Portfolio Website** — Fully responsive with Tailwind, dark/light mode, animations  
-- 📹 **Instagram Content** — Motivational content and trending reels on **[@start_explore_img](https://www.instagram.com/start_explore_img/)**
+- 📹 **Instagram Content** — Motivational content on **[@start_explore_img](https://www.instagram.com/start_explore_img/)**
+- Educational content and trending reels on **[@coditbyneha](https://www.instagram.com/coditbyneha/)**
 - 🔐 **User Management Module** — Role-based SaaS platform with Elixir & Phoenix  
   *Organization & Team Management System*— Basecamp-style admin panel with invites, roles, tasks
 

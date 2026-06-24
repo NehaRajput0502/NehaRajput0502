@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm 𝐍𝐞𝐡𝐚 𝐑𝐚𝐣𝐩𝐮𝐭</h1>
-<h3 align="center">💻 Software Developer | 🎬 Video Editor | 🎓 MCA Student</h3>
+<h3 align="center">💻 Versatile Software Developer | 🎬 Lifelong Learner | 🎓 MCA Holder</h3>
 
 <p align="center">
   🌱 Currently learning: <strong>React.js, Phoenix Framework</strong><br/>

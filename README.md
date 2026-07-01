@@ -71,7 +71,7 @@
 
 ---
 
-### 📫 Let's Connec
+### 📫 Let's Connect
 
 - 📧 Email: **neharajput0502@gmail.com**
 - 💼 LinkedIn: [@NehaRajput0502](https://www.linkedin.com/in/neha-rajput-0502neha/)
